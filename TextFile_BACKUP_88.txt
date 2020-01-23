@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 New data from master
+=======
 add some data from branch
+>>>>>>> change text
